@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAP 0603_1608 New Footprint=C_1608_0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP 0603_1608 New Footprint=C_1608_0603
+Change Component Comment : Designator=C6 Old Comment=10000 pF New Comment=0603YC104KAT2A
+Change Component Comment : Designator=C7 Old Comment=10000 pF New Comment=0603YC104KAT2A
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP 0603_1608"; UniqueID = "\ZIALTPAD" ("\ZIALTPAD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.kyocera-avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "0603YC104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1239-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 0603_1608"; UniqueID = "\XFWUZQBF" ("\XFWUZQBF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.kyocera-avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "0603YC104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1239-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"

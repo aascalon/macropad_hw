@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D2 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D3 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D4 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D5 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D6 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D7 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D8 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D9 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D10 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D11 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D12 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D13 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D14 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D15 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D16 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Change Component Footprint: Designator=D17 Old Footprint=SOD523F New Footprint=D_MCC_SOD-523
+Add Component: Footprint Not Found AMPHENOL_10103594-0001LF
+Add Pin To Net: Unknown Pin: Pin E1-1
+Add Pin To Net: Unknown Pin: Pin E1-2
+Add Pin To Net: Unknown Pin: Pin E1-3
+Add Pin To Net: Unknown Pin: Pin E1-4
+Add Pin To Net: Unknown Pin: Pin E1-5
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-S1
+Add Pin To Net: Unknown Pin: Pin J2-S2
+Add Class Member: Failed to add class member : Component E1 PEC12R-4220F-S0024
+Add Class Member: Failed to add class member : Component J2 10103594-0001LF

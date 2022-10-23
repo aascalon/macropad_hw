@@ -1,0 +1,7 @@
+Change Pin Designator/Name:  Old Designator=U1A-27 Old Name=PD7/TC0_T/TC4_OCD/ADC_10 New Designator =PC7/TC3_ICP/TC4_OCA/CPU_CLK0 New Name=32
+Change Pin Designator/Name:  Old Designator=U1A-28 Old Name=PB4/EXINT_PCINT4/ADC_11 New Designator =PE2/BOOT_LOAD_HWB New Name=33
+Change Pin Designator/Name:  Old Designator=U1A-29 Old Name=PB5/TC1_OCA/TC4_OCB/EXINT_PCINT5/ADC_12 New Designator =PD7/TC0_T/TC4_OCD/ADC_10 New Name=27
+Change Pin Designator/Name:  Old Designator=U1A-30 Old Name=PB6/TC1_OCB/TC4_OCB/EXINT_PCINT6/ADC_13 New Designator =PB4/EXINT_PCINT4/ADC_11 New Name=28
+Change Pin Designator/Name:  Old Designator=U1A-31 Old Name=PC6/TC3_OCA/TC4_OCA New Designator =PB5/TC1_OCA/TC4_OCB/EXINT_PCINT5/ADC_12 New Name=29
+Change Pin Designator/Name:  Old Designator=U1A-32 Old Name=PC7/TC3_ICP/TC4_OCA/CPU_CLK0 New Designator =PB6/TC1_OCB/TC4_OCB/EXINT_PCINT6/ADC_13 New Name=30
+Change Pin Designator/Name:  Old Designator=U1A-33 Old Name=PE2/BOOT_LOAD_HWB New Designator =PC6/TC3_OCA/TC4_OCA New Name=31

@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=ROW_0 Pin=D1-2
+Removed Pin From Net: NetName=ROW_0 Pin=D2-2
+Removed Pin From Net: NetName=ROW_0 Pin=D3-2
+Removed Pin From Net: NetName=ROW_1 Pin=D4-2
+Removed Pin From Net: NetName=ROW_1 Pin=D5-2
+Removed Pin From Net: NetName=ROW_1 Pin=D6-2
+Removed Pin From Net: NetName=ROW_1 Pin=D7-2
+Removed Pin From Net: NetName=ROW_2 Pin=D8-2
+Removed Pin From Net: NetName=ROW_2 Pin=D9-2
+Removed Pin From Net: NetName=ROW_2 Pin=D10-2
+Removed Pin From Net: NetName=ROW_2 Pin=D11-2
+Removed Pin From Net: NetName=ROW_3 Pin=D12-2
+Removed Pin From Net: NetName=ROW_3 Pin=D13-2
+Removed Pin From Net: NetName=ROW_3 Pin=D14-2
+Removed Pin From Net: NetName=ROW_4 Pin=D15-2
+Removed Pin From Net: NetName=ROW_4 Pin=D16-2
+Removed Pin From Net: NetName=ROW_4 Pin=D17-2
+Change Component Comment : Designator=STAB1 Old Comment=Comment New Comment=Cherry Stabiliser Hole
+Change Component Designator: OldDesignator=SW? NewDesignator=SW19
+Change component parameters: Designator = "STAB1" ("STAB1"); Footprint = "HOLE_CHERRY_STAB"; UniqueID = "\VHUDJEVA" ("\VHUDJEVA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "Cherry Stabiliser Hole"; VariantName = "[No Variations]"
+Added Component: Designator=STAB2(HOLE_CHERRY_STAB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "Cherry Stabiliser Hole"; VariantName = "[No Variations]"
+Added Component: Designator=STAB3(HOLE_CHERRY_STAB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "Cherry Stabiliser Hole"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ROW_0 Pin=D1-1
+Added Pin To Net: NetName=ROW_0 Pin=D2-1
+Added Pin To Net: NetName=ROW_0 Pin=D3-1
+Added Pin To Net: NetName=ROW_1 Pin=D4-1
+Added Pin To Net: NetName=ROW_1 Pin=D5-1
+Added Pin To Net: NetName=ROW_1 Pin=D6-1
+Added Pin To Net: NetName=ROW_1 Pin=D7-1
+Added Pin To Net: NetName=ROW_2 Pin=D8-1
+Added Pin To Net: NetName=ROW_2 Pin=D9-1
+Added Pin To Net: NetName=ROW_2 Pin=D10-1
+Added Pin To Net: NetName=ROW_2 Pin=D11-1
+Added Pin To Net: NetName=ROW_3 Pin=D12-1
+Added Pin To Net: NetName=ROW_3 Pin=D13-1
+Added Pin To Net: NetName=ROW_3 Pin=D14-1
+Added Pin To Net: NetName=ROW_4 Pin=D15-1
+Added Pin To Net: NetName=ROW_4 Pin=D16-1
+Added Pin To Net: NetName=ROW_4 Pin=D17-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=SW1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=SW2-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=SW3-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=SW5-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=SW6-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=SW7-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=SW4-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=SW9-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=SW10-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=SW11-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=SW8-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=SW12-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=SW13-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=SW14-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=SW16-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=SW17-1
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=SW15-1
+Added Net: Name=NetD17_2
+Added Member To Class: ClassName=Macropad Member=Component STAB1 Cherry Stabiliser Hole
+Added Member To Class: ClassName=Macropad Member=Component STAB2 Cherry Stabiliser Hole
+Added Member To Class: ClassName=Macropad Member=Component STAB3 Cherry Stabiliser Hole
+Added Room: Name=Macropad

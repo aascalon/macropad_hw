@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=+5V0 Pin=D1-8
+Removed Pin From Net: NetName=5V_RAW Pin=F1-1
+Added Pin To Net: NetName=5V_RAW Pin=D1-1
+Added Pin To Net: NetName=+5V0 Pin=F1-2
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_8 Pin=F1-1
+Added Net: Name=NetD1_8
+Added Member To Class: ClassName=Macropad Member=Component C1 0603YC105KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C6 10000 pF
+Added Member To Class: ClassName=Macropad Member=Component C7 10000 pF
+Added Member To Class: ClassName=Macropad Member=Component C8 06035A220JAT2A
+Added Member To Class: ClassName=Macropad Member=Component C10 0603YC104KAT2A
+Added Member To Class: ClassName=Macropad Member=Component D1 USB6B1RL
+Added Member To Class: ClassName=Macropad Member=Component D3 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D5 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D7 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D9 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D11 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D13 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D15 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component D17 1N4148X-TP
+Added Member To Class: ClassName=Macropad Member=Component J2 128x32 I2C OLED Display
+Added Member To Class: ClassName=Macropad Member=Component R4 RMCF0603FT22R0
+Added Member To Class: ClassName=Macropad Member=Component R8 RMCF0603FT330R
+Added Member To Class: ClassName=Macropad Member=Component SW1 PEC12R-4220F-S0024
+Added Member To Class: ClassName=Macropad Member=Component SW3 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW8 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW9 TS02-66-43-BK-260-SCR-D
+Added Member To Class: ClassName=Macropad Member=Component SW11 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW13 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW14 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW15 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW16 MX-Style Switch
+Added Member To Class: ClassName=Macropad Member=Component SW17 MX-Style Switch

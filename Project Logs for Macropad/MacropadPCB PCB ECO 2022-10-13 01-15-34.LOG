@@ -1,0 +1,13 @@
+Added Component: Designator=SW?(SW_ENCODER_PEC12R-4220F-S0024)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PEC12R-4220F-S0024"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COL_3 Pin=SW?-1
+Added Pin To Net: NetName=ROW_0 Pin=SW?-2
+Added Pin To Net: NetName=ENC_A Pin=SW?-A
+Added Pin To Net: NetName=ENC_B Pin=SW?-B
+Added Pin To Net: NetName=GND Pin=SW?-C
+Added Pin To Net: NetName=GND Pin=SW?-MH1
+Added Pin To Net: NetName=GND Pin=SW?-MH2
+Added Member To Class: ClassName=Macropad Member=Component SW? PEC12R-4220F-S0024

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=OLED_RST_n Pin=U1-8
+Added Component: Designator=J3(CONN_2X3_HDR_2540)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/67996.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "67997-206HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-3234-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_RESET_n Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=+5V0 Pin=J3-6
+Added Pin To Net: NetName=OLED_RST_n Pin=U1-1
+Added Pin To Net: NetName=SPI_MISO Pin=J3-1
+Added Pin To Net: NetName=SPI_MISO Pin=U1-11
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=J3-5
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-10
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCLK Pin=J3-2
+Added Pin To Net: NetName=SPI_SCLK Pin=U1-9
+Added Net: Name=SPI_SCLK
+Added Member To Class: ClassName=Macropad Member=Component J3 67997-206HLF

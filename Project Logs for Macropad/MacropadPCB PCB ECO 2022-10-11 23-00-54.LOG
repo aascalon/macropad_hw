@@ -1,0 +1,37 @@
+Added Component: Designator=J2(CONN_10103594-0001LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10103594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10103594-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "10103594-0001LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-4050-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin E1-1
+Add Pin To Net: Unknown Pin: Pin E1-2
+Add Pin To Net: Unknown Pin: Pin E1-3
+Add Pin To Net: Unknown Pin: Pin E1-4
+Add Pin To Net: Unknown Pin: Pin E1-5
+Added Pin To Net: NetName=5V_RAW Pin=J2-1
+Added Pin To Net: NetName=USB_CONN_N Pin=J2-2
+Added Pin To Net: NetName=USB_CONN_P Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-S1
+Added Pin To Net: NetName=GND Pin=J2-S2
+Add Class Member: Failed to add class member : Component E1 PEC12R-4220F-S0024
+Added Member To Class: ClassName=Macropad Member=Component J2 10103594-0001LF

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C1-
+Add Pin To Net: Unknown Pin: Pin C1-1
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Member To Class: ClassName=Macropad Member=Component C1 0603YC105KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C2 0603YC105KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C4 0603YC104KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C5 0603YC104KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C7 0603YC105KAT2A
+Added Member To Class: ClassName=Macropad Member=Component C10 06035A220JAT2A
+Added Member To Class: ClassName=Macropad Member=Component R5 RMCF0603FT22R0
+Added Member To Class: ClassName=Macropad Member=Component R6 RMCF0603FT22R0

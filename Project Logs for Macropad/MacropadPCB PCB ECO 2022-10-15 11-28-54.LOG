@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Added Component: Designator=C1(C_1608_0603)
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.kyocera-avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "0603YC105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-5010-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V0 Pin=C1-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC7_2
+Added Member To Class: ClassName=Macropad Member=Component C11 0603YC104KAT2A

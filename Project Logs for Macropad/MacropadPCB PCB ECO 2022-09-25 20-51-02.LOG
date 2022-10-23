@@ -1,0 +1,116 @@
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found SOD523F
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Add Component: Footprint Not Found RES 0603_1608
+Added Component: Designator=SW1(MXSwitch)
+Added Component: Designator=SW2(MXSwitch)
+Added Component: Designator=SW3(MXSwitch)
+Added Component: Designator=SW4(MXSwitch)
+Added Component: Designator=SW5(MXSwitch)
+Added Component: Designator=SW6(MXSwitch)
+Added Component: Designator=SW7(MXSwitch)
+Added Component: Designator=SW8(MXSwitch)
+Added Component: Designator=SW9(MXSwitch)
+Added Component: Designator=SW10(MXSwitch)
+Added Component: Designator=SW11(MXSwitch)
+Added Component: Designator=SW12(MXSwitch)
+Added Component: Designator=SW13(MXSwitch)
+Added Component: Designator=SW14(MXSwitch)
+Added Component: Designator=SW15(MXSwitch)
+Added Component: Designator=SW16(MXSwitch)
+Added Component: Designator=SW17(MXSwitch)
+Added Component: Designator=SW18(TS02-66-43-BK-260-SCR-D)
+Added Net: Name=+5V0
+Added Pin To Net: NetName=COL_0 Pin=SW1-2
+Added Pin To Net: NetName=COL_0 Pin=SW5-2
+Added Pin To Net: NetName=COL_0 Pin=SW9-2
+Added Pin To Net: NetName=COL_0 Pin=SW12-2
+Added Pin To Net: NetName=COL_0 Pin=SW16-2
+Added Net: Name=COL_0
+Added Pin To Net: NetName=COL_1 Pin=SW2-2
+Added Pin To Net: NetName=COL_1 Pin=SW6-2
+Added Pin To Net: NetName=COL_1 Pin=SW10-2
+Added Pin To Net: NetName=COL_1 Pin=SW13-2
+Added Net: Name=COL_1
+Added Pin To Net: NetName=COL_2 Pin=SW3-2
+Added Pin To Net: NetName=COL_2 Pin=SW7-2
+Added Pin To Net: NetName=COL_2 Pin=SW11-2
+Added Pin To Net: NetName=COL_2 Pin=SW14-2
+Added Pin To Net: NetName=COL_2 Pin=SW17-2
+Added Net: Name=COL_2
+Added Pin To Net: NetName=COL_3 Pin=SW4-2
+Added Pin To Net: NetName=COL_3 Pin=SW8-2
+Added Pin To Net: NetName=COL_3 Pin=SW15-2
+Added Net: Name=COL_3
+Added Net: Name=ENC_A_MICRO
+Added Net: Name=ENC_A
+Added Net: Name=ENC_B_MICRO
+Added Net: Name=ENC_B
+Added Pin To Net: NetName=GND Pin=SW18-1
+Added Pin To Net: NetName=GND Pin=SW18-2
+Added Net: Name=GND
+Added Net: Name=I2C_SCL
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetD1_2 Pin=SW1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=SW2-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=SW3-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=SW4-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=SW5-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=SW6-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=SW7-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=SW8-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=SW9-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=SW10-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=SW11-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=SW12-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=SW13-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_2 Pin=SW14-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_2 Pin=SW15-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_2 Pin=SW16-1
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_2 Pin=SW17-1
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetSW18_3 Pin=SW18-3
+Added Pin To Net: NetName=NetSW18_3 Pin=SW18-4
+Added Net: Name=NetSW18_3
+Added Net: Name=ROW_0
+Added Net: Name=ROW_1
+Added Net: Name=ROW_2
+Added Net: Name=ROW_3
+Added Net: Name=ROW_4
+Added Class: Name=Macropad
+Added Room: Name=Macropad

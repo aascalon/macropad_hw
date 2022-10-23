@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MacropadPCB.PcbDoc]
+   Generated File[MacropadPCB-RoundHoles.TXT]
+   Generated File[MacropadPCB-SlotHoles.TXT]
+   Generated File[MacropadPCB.DRL]
+   Generated File[MacropadPCB.LDP]
+   Generated File[MacropadPCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 02:56:01 On 2022-10-22

@@ -1,0 +1,14 @@
+Remove Pin=U1A-25 From Net=ROW_4
+Remove Pin=U1A-26 From Net=ROW_3
+Remove Pin=U1A-27 From Net=ROW_2
+Remove Pin=U1A-28 From Net=ROW_1
+Remove Pin=U1A-29 From Net=ROW_0
+Remove Pin=U1A-30 From Net=ENC_B_MICRO
+Remove Pin=U1A-31 From Net=ENC_A_MICRO
+Add Pin To Net: Pin=U1A-25 Old Net=ROW_4 New Net=ENC_B_MICRO
+Add Pin To Net: Pin=U1A-26 Old Net=ROW_3 New Net=ENC_A_MICRO
+Add Pin To Net: Pin=U1A-29 Old Net=ROW_0 New Net=ROW_4
+Add Pin To Net: Pin=U1A-30 Old Net=ENC_B_MICRO New Net=ROW_3
+Add Pin To Net: Pin=U1A-31 Old Net=ENC_A_MICRO New Net=ROW_2
+Add Pin To Net: Pin=U1A-32 Old Net=NetU1_32 New Net=ROW_1
+Add Pin To Net: Pin=U1A-33 Old Net=NetU1_33 New Net=ROW_0

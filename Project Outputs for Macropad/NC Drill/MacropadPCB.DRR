@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MacropadPCB.PcbDoc   2022-10-22  02:56:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1-PRIMARY to L4-SECONDARY
+ASCII RoundHoles File : MacropadPCB-RoundHoles.TXT
+ASCII SlotHoles File : MacropadPCB-SlotHoles.TXT
+EIA File   : MacropadPCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             5         PTH        58.22mm (2.29inch)
+T2      0.3mm (12mil)                                             Round             34        PTH        200.92mm (7.91inch)
+T3      0.65mm (26mil)                                            Slot              2         PTH        10.52mm (0.41inch)
+T4      0.7mm (28mil)                                             Slot              2         PTH        11.92mm (0.47inch)
+T5      1mm (39mil)                                               Round             9         PTH        106.96mm (4.21inch)
+T6      1.016mm (40mil)                                           Round             12        PTH        85.47mm (3.36inch)
+T7      1.499mm (59mil)                                           Round             34        PTH        467.67mm (18.41inch)
+T8      1.702mm (67mil)                                           Round             34        PTH        474.38mm (18.68inch)
+T9      2.3mm (91mil)                                             Round             2         PTH        12.20mm (0.48inch)
+T10     3.05mm (120mil)                                           Round             6         PTH        129.38mm (5.09inch)
+T11     3.988mm (157mil)                                          Round             17        PTH        368.04mm (14.49inch)
+T12     4mm (157mil)                                              Round             6         PTH        113.77mm (4.48inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              163
+
+Total Processing Time (hh:mm:ss) : 00:00:00
