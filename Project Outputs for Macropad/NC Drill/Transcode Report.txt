@@ -1,0 +1,7 @@
+
+
+   ---- Transcoding 'C:\Users\Dri\Documents\Atlium Projects\Macropad\Project Outputs for Macropad\NC Drill\MacropadPCB-SlotHoles.TXT' ----   Mon Oct 24 00:32:49 2022
+
+T3   --> T13
+T4   --> T14
+-----------------------------------------------------------------

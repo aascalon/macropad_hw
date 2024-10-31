@@ -1,14 +1,13 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [MacropadPCB.PcbDoc]
-   Generated File[MacropadPCB-RoundHoles.TXT]
-   Generated File[MacropadPCB-SlotHoles.TXT]
-   Generated File[MacropadPCB.DRL]
-   Generated File[MacropadPCB.LDP]
-   Generated File[MacropadPCB.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 00:13:27 On 2024-10-31
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Macropad.PrjPcb]
 
 
-Files Generated   : 5
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 02:56:01 On 2022-10-22
+Finished Output Generation At 00:13:46 On 2024-10-31
