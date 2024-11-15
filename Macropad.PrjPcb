@@ -354,6 +354,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYZRBCKC
 
+[Document19]
+DocumentPath=Macropad_1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESKKTCCS
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Macropad\Design Rule Check - MacropadPCB.html
 DItemRevisionGUID=
@@ -1150,6 +1167,7 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1395,9 +1413,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Macropad.SchLib
-ComponentDesignItemID0=MX Switch
-ComponentSymbolReference0=MX Switch
+ComponentLibraryIdentifier0=adrianna-altium-lib.DbLib/connectors
+ComponentDesignItemID0=67997-206HLF
+ComponentSymbolReference0=J_HDR_2X3
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1417,14 +1435,32 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=ComponentLink1Description
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=ComponentLink1URL
 ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=Gender
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=Manufacturer
+ParameterUpdate7=1
+ParameterName8=Pin Count
+ParameterUpdate8=1
+ParameterName9=PN
+ParameterUpdate9=1
+ParameterName10=Supplier 1
+ParameterUpdate10=1
+ParameterName11=Supplier Part Number 1
+ParameterUpdate11=1
+ParameterName12=System
+ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=MXSwitch
+ModelName0=CONN_2X3_HDR_2540
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
