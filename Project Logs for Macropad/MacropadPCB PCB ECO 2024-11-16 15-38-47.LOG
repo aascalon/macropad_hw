@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=MCU_RESET_n Pin=C11-2
+Removed Pin From Net: NetName=+5V0 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=I2C_SCL Pin=J2-5
+Removed Pin From Net: NetName=I2C_SDA Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=+5V0 Pin=J3-6
+Removed Pin From Net: NetName=+5V0 Pin=R1-1
+Removed Pin From Net: NetName=ENC_A_MICRO Pin=R1-2
+Removed Pin From Net: NetName=ENC_A_MICRO Pin=R2-1
+Removed Pin From Net: NetName=+5V0 Pin=R3-1
+Removed Pin From Net: NetName=ENC_B_MICRO Pin=R3-2
+Removed Pin From Net: NetName=ENC_B_MICRO Pin=R4-1
+Removed Pin From Net: NetName=MCU_RESET_n Pin=R8-2
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-2
+Removed Member From Class: ClassName=Macropad Member=C5
+Removed Member From Class: ClassName=Macropad Member=C8
+Removed Member From Class: ClassName=Macropad Member=C11
+Removed Member From Class: ClassName=Macropad Member=R1
+Removed Member From Class: ClassName=Macropad Member=R2
+Removed Member From Class: ClassName=Macropad Member=R3
+Removed Member From Class: ClassName=Macropad Member=R4
+Removed Member From Class: ClassName=Macropad Member=R8
+Change Component Footprint: Designator=J2 Old Footprint=CONN_6PIN_OLED New Footprint=MOLEX KK 0022272041
+Change Component Comment : Designator=J2 Old Comment=128x32 I2C OLED Display New Comment=0022272041
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CONN_6PIN_OLED"; UniqueID = "\JDXFEAFO" ("\JDXFEAFO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/022272041_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/molex/0022272041/WM4113-ND/1130579"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "100.0µin (2.54µm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Mating"; Value = "0.295" (7.49mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Post"; Value = "0.140" (3.56mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Friction Lock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "0.461" (11.70mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2020-01-12 23:52:05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Overall Contact Length"; Value = "0.560" (14.22mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0022272041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "78"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KK 6410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shrouding"; Value = "Shrouded - 1 Wall"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM4113-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=MNT1(MH_M3_PTH_VIA-SPOKES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Display Name"; Value = "M3 MH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kepler Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "M3 Mounting Hole"; VariantName = "[No Variations]"
+Added Component: Designator=MNT2(MH_M3_PTH_VIA-SPOKES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Display Name"; Value = "M3 MH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kepler Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "M3 Mounting Hole"; VariantName = "[No Variations]"
+Added Component: Designator=MNT3(MH_M3_PTH_VIA-SPOKES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Display Name"; Value = "M3 MH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kepler Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "M3 Mounting Hole"; VariantName = "[No Variations]"
+Added Component: Designator=MNT4(MH_M3_PTH_VIA-SPOKES)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Display Name"; Value = "M3 MH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kepler Lifecycle"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "M3 Mounting Hole"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=+5V0 Pin=J2-2
+Added Pin To Net: NetName=I2C_SCL Pin=J2-3
+Added Pin To Net: NetName=I2C_SDA Pin=J2-4
+Added Pin To Net: NetName=+5V0 Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=MNT1-1
+Added Pin To Net: NetName=GND Pin=MNT2-1
+Added Pin To Net: NetName=GND Pin=MNT3-1
+Added Pin To Net: NetName=GND Pin=MNT4-1
+Added Pin To Net: NetName=ENC_A_MICRO Pin=SW1-A
+Added Pin To Net: NetName=ENC_B_MICRO Pin=SW1-B
+Added Pin To Net: NetName=MCU_RESET_n Pin=SW9-3
+Added Pin To Net: NetName=MCU_RESET_n Pin=SW9-4
+Added Pin To Net: NetName=+5V0 Pin=U1-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-6
+Added Member To Class: ClassName=Macropad Member=Component MNT1 M3 Mounting Hole
+Added Member To Class: ClassName=Macropad Member=Component MNT2 M3 Mounting Hole
+Added Member To Class: ClassName=Macropad Member=Component MNT3 M3 Mounting Hole
+Added Member To Class: ClassName=Macropad Member=Component MNT4 M3 Mounting Hole
+Added Room: Name=Macropad

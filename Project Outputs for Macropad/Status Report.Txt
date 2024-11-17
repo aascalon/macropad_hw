@@ -1,13 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 00:13:27 On 2024-10-31
+Start Output Generation At 22:21:11 On 2024-11-04
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Macropad.PrjPcb]
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [MacropadPCB.PcbDoc]
+   Generated File[MacropadPCB.step]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 00:13:46 On 2024-10-31
+Finished Output Generation At 22:21:20 On 2024-11-04
