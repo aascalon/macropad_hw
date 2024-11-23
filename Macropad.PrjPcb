@@ -59,7 +59,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -353,23 +353,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYZRBCKC
-
-[Document19]
-DocumentPath=Macropad_1.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ESKKTCCS
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Macropad\Design Rule Check - MacropadPCB.html
@@ -1474,11 +1457,12 @@ Net1=NetName=COL_0|NetColor=$0000BE00
 Net2=NetName=COL_1|NetColor=$0000BE00
 Net3=NetName=COL_2|NetColor=$0000BE00
 Net4=NetName=COL_3|NetColor=$0000BE00
-Net5=NetName=ROW_0|NetColor=$00FF6EFF
-Net6=NetName=ROW_1|NetColor=$00FF6EFF
-Net7=NetName=ROW_2|NetColor=$00FF6EFF
-Net8=NetName=ROW_3|NetColor=$00FF6EFF
-Net9=NetName=ROW_4|NetColor=$00FF6EFF
+Net5=NetName=GND|NetColor=clGray
+Net6=NetName=ROW_0|NetColor=$00FF6EFF
+Net7=NetName=ROW_1|NetColor=$00FF6EFF
+Net8=NetName=ROW_2|NetColor=$00FF6EFF
+Net9=NetName=ROW_3|NetColor=$00FF6EFF
+Net10=NetName=ROW_4|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
